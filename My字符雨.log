@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\liudunhui\documents\visual studio 2015\projects\再版（成长版）\my字符雨2018-3-27\my字符雨\my字符雨\源.cpp(146): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+  My字符雨.vcxproj -> C:\Users\liudunhui\Documents\Visual Studio 2015\Projects\再版（成长版）\My字符雨2018-3-27\My字符雨\Debug\My字符雨.exe
+  My字符雨.vcxproj -> C:\Users\liudunhui\Documents\Visual Studio 2015\Projects\再版（成长版）\My字符雨2018-3-27\My字符雨\Debug\My字符雨.pdb (Full PDB)
