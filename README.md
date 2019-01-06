@@ -1,4 +1,4 @@
 # Character-rain-The-Matrix-
 Imperfect !
 
-Warning : The BGM istoo large to upload !
+Warning : The BGM is too large to upload !
